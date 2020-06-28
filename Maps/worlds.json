@@ -3,7 +3,7 @@
     "sectorWidth" : 22,
     "findChanceSpell" : 1,
     "levelSize" : 1000,
-    "depth" : 25,
+    "depth" : 1,
     "opponentDensity" : 100,
     "tileSets" : [
       "DungeonOne",
@@ -34,14 +34,14 @@
       "Mage",
       "Knight"
     ],
-    "version" : "D2A61643-BB59-4EA1-9282-DB4A24FBCBE6",
+    "version" : "6A16F1AE-2066-45CC-AC8A-3C6298826878",
     "findChanceWeapon" : 1,
     "name" : "Aseuluth",
     "findChanceMoney" : 10,
     "spellClasses" : [
 
     ],
-    "id" : "5C01276F-EB38-4936-929D-5961290DB20B",
+    "id" : "0535AA09-DE0D-4AFE-9368-CCCE547DC776",
     "findChanceArmour" : 1,
     "seed" : "FootStuffPersonObscurity",
     "armourClasses" : [
