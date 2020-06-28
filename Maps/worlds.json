@@ -34,14 +34,14 @@
       "Mage",
       "Knight"
     ],
-    "version" : "A0CE7411-5996-4882-A75E-81B111144A00",
+    "version" : "D2A61643-BB59-4EA1-9282-DB4A24FBCBE6",
     "findChanceWeapon" : 1,
     "name" : "Aseuluth",
     "findChanceMoney" : 10,
     "spellClasses" : [
 
     ],
-    "id" : "EF4F2E56-04B0-45C2-8AA2-66006B07076D",
+    "id" : "5C01276F-EB38-4936-929D-5961290DB20B",
     "findChanceArmour" : 1,
     "seed" : "FootStuffPersonObscurity",
     "armourClasses" : [
