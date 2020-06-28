@@ -1,0 +1,57 @@
+[
+  {
+    "sectorWidth" : 22,
+    "findChanceSpell" : 1,
+    "levelSize" : 1000,
+    "depth" : 25,
+    "opponentDensity" : 100,
+    "tileSets" : [
+      "DungeonOne",
+      "DungeonTwo",
+      "DungeonThree"
+    ],
+    "universe" : "Zagreus",
+    "moneyClasses" : [
+      "Copper",
+      "Silver",
+      "Gold",
+      "Platinum",
+      "Jewels"
+    ],
+    "opponentClasses" : [
+      "Human",
+      "Dwarf",
+      "Sprite",
+      "Ogre",
+      "Mage",
+      "Spider",
+      "Knight",
+      "Imp"
+    ],
+    "characterClasses" : [
+      "Human",
+      "Dwarf",
+      "Mage",
+      "Knight"
+    ],
+    "version" : "A0CE7411-5996-4882-A75E-81B111144A00",
+    "findChanceWeapon" : 1,
+    "name" : "Aseuluth",
+    "findChanceMoney" : 10,
+    "spellClasses" : [
+
+    ],
+    "id" : "EF4F2E56-04B0-45C2-8AA2-66006B07076D",
+    "findChanceArmour" : 1,
+    "seed" : "FootStuffPersonObscurity",
+    "armourClasses" : [
+
+    ],
+    "sectorHeight" : 16,
+    "theme" : "rpg",
+    "weaponClasses" : [
+
+    ],
+    "variance" : 1
+  }
+]
